@@ -7,4 +7,3 @@ class Solution:
                 return i,hashmap[ target - v ]
             else:
                 hashmap[v] = i
-        
