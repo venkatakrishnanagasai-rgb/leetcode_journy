@@ -18,12 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0058-length-of-last-word) |
 | [0856-score-of-parentheses](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
