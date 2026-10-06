@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0057-insert-interval) |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -33,4 +34,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Hash Table
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Math
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
