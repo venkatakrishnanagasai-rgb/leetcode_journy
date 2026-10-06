@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0059-spiral-matrix-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/venkatakrishnanagasai-rgb/leetcode_journy/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
